@@ -1,4 +1,4 @@
-# Finny - Your Loan Knowledge Assistant 🤖
+# Your Loan Knowledge Assistant 🤖
 
 ## Overview
 
